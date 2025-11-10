@@ -17,11 +17,11 @@ In this project, we built a simple mechanism to simulate the movement of a woode
 ### Code
 The MakeCode program controls the servo to move back and forth.
 
-Code file: [`whale-servo.js`](https://github.com/einsteinm2/STEM-microbit-projects/blob/main/whale-servo-robotbit/whale-servo.js)
+Code file: [`whale-servo.js`](./whale-servo.js)
 
 Screenshot of MakeCode blocks: 
 
-![`code-screenshot.png`](https://github.com/einsteinm2/STEM-microbit-projects/blob/main/whale-servo-robotbit/code-screenshot.png)
+![`code-screenshot.png`](./code-screenshot.png)
 
 ---
 
@@ -31,6 +31,7 @@ Screenshot of MakeCode blocks:
 ---
 
 Category: **STEM Education | Micro:bit | Robotics**
+
 
 
 
