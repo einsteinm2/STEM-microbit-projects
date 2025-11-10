@@ -1,7 +1,6 @@
 ## Wooden Whale Servo Motion (Micro:bit + Robot:bit)
 
-In this project, we built a simple mechanism to simulate the movement of a wooden whale using a **servo motor**, a **Micro:bit**, and a **Robot:bit** board.  
-Ideal for introducing **servo control**, **MakeCode programming**, and **basic robotics concepts**.
+In this project, we built a simple mechanism to simulate the movement of a wooden whale using a **servo motor**, a **Micro:bit**, and a **Robot:bit** board.  Ideal for introducing **servo control**, **MakeCode programming**, and **basic robotics concepts**.
 
 ---
 
@@ -30,4 +29,5 @@ Screenshot of MakeCode blocks: [`code-screenshot.png`](https://github.com/einste
 ---
 
 Category: **STEM Education | Micro:bit | Robotics**
+
 
