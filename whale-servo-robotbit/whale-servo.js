@@ -1,7 +1,7 @@
-let angle = 0
-let strip = robotbit.rgb()
 // MakeCode JavaScript (TypeScript-based)
 // Requires Robot:bit extension
+let angle = 0
+let strip = robotbit.rgb()
 
 strip.setBrightness(50)
 strip.showColor(neopixel.colors(NeoPixelColors.Blue))
@@ -30,3 +30,4 @@ basic.forever(function () {
 basic.forever(function () {
     whale.scrollImage(1, 1000)
 })
+
