@@ -44,6 +44,15 @@ This is the program in MakeCode. You will need to add two extensions:
 1. Envirobit (Just type envirobit in the extensions section)
 2. Neopixel (Just type neopixel in the extensions section)
 
+
 <p align="center">
- <img src='./microbit-screenshot.png' width='75%' />
+ <img src='./makecode-program.png' width='75%' />
 </p>
+
+### Demo Video
+<a href="https://www.youtube.com/watch?v=hVwhT0ojVrs" target="_blank">Watch the project on YouTube</a>
+
+---
+
+Category: **STEM Education | Micro:bit | Sensors**
+
