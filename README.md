@@ -1,9 +1,9 @@
 # STEM-microbit-projects
 Educational robotics and programming projects using BBC micro:bit for hands-on STEM learning.
 
-| Project | Description | STEM Focus |
+| Project | Description | Tools |
 |----------|--------------|-------------|
-| [whale-servo-robotbit](./fire-fighter-robot) | 
+| [Whale Servo Robotbit](./whale-servo-robotbit) | Simple mechanism that simulates whale movement using a servo and Robot:bit. Ideal for introducing servos and basic robotics. | Micro:bit, Robot:bit, MakeCode | 
 
 
 ---
