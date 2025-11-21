@@ -44,6 +44,9 @@ This is the program in MakeCode. You will need to add two extensions:
 1. Envirobit (Just type envirobit in the extensions section)
 2. Neopixel (Just type neopixel in the extensions section)
 
+Code file: [`rgb-sensor.js`](./rgb-sensor.js)
+
+Screenshot of MakeCode blocks: 
 
 <p align="center">
  <img src='./makecode-program.png' width='75%' />
@@ -55,4 +58,5 @@ This is the program in MakeCode. You will need to add two extensions:
 ---
 
 Category: **STEM Education | Micro:bit | Sensors**
+
 
