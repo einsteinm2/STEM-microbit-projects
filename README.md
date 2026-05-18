@@ -5,6 +5,7 @@ Educational robotics and programming projects using BBC micro:bit for hands-on S
 |----------|--------------|-------------|
 | [Whale Servo Robotbit](./whale-servo-robotbit) | Simple mechanism that simulates whale movement using a servo and Robot:bit. Ideal for introducing servos and basic robotics. | Micro:bit, Robot:bit, MakeCode | 
 | [Color Sensor with Gamma Correction](./microbit-color-sensor) | Detects RGB values using the TCS34725 sensor and applies gamma correction for realistic color visualization on a NeoPixel LED strip. | Micro:bit, TCS34725, NeoPixel, MakeCode |
+| [Digital vs Analog Signals on Micro:bit](./microbit-digital-vs-analog-signals) | Real-time serial plotter demo using touch pin P0, potentiometer on P1, and built-in light sensor to compare digital and analog signals. | Micro:bit, Potentiometer, MakeCode, Serial Plotter |
 
 ---
 Each subproject includes:
